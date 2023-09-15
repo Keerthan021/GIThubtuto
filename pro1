@@ -1,0 +1,48 @@
+git clone https://github.com/Keerthan021/A-simple-Calculator.git
+
+https://github.com/Keerthan021/firstrespo.git
+
+https://github.com/Keerthan021/firstrespo.git
+git config --global user.email keerthanderla@gmail.com
+
+//check modified
+	git status
+
+
+1.//check the status
+	git status
+
+2.add all file
+	git add .
+
+3.commit
+	git commit -m "new version is added" 
+here -m includes some message
+
+4.get date and time
+	git log
+
+5. link git to github.
+git push origin main //here origin means original folder which we cloned from the github.
+					 //main means main file.
+					 
+					 
+...Add new branch...
+create:
+git branch feature1
+
+main d itthna feature g bariyara #like cd in terminal.
+git checkout feature1
+
+git add .
+git commit -m "new"
+git push origin feature1
+
+manualy pull from global resp to local
+git pull
+
+
+
+
+
+
